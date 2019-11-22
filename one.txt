@@ -1,3 +1,6 @@
 hello world
 asdasdasfasf
+<<<<<<< HEAD
 asdasafhwgkhwkjhiugkuh
+=======
+>>>>>>> fd6cd7d7137945400ad4648ccb7cd0982aa60fd3
